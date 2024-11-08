@@ -1,0 +1,181 @@
+[
+  {
+    "nume": "mobilier corp 1",
+    "placi": [
+      {
+        "descriere": "lataral",
+        "lungime": 1982,
+        "latime": 400,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "capac",
+        "lungime": 550,
+        "latime": 400,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          true,
+          false,
+          true
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "usa mica",
+        "lungime": 618,
+        "latime": 254,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "usa mare",
+        "lungime": 952,
+        "latime": 254,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "prag",
+        "lungime": 514,
+        "latime": 50,
+        "orientare": "LATIME",
+        "canturi": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "raft mobil",
+        "lungime": 514,
+        "latime": 370,
+        "orientare": "ORICARE",
+        "canturi": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 3
+      },
+      {
+        "descriere": "raft fix",
+        "lungime": 514,
+        "latime": 400,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 3
+      }
+    ]
+  },
+  {
+    "nume": "dulap 1",
+    "placi": [
+      {
+        "descriere": "lataral",
+        "lungime": 1782,
+        "latime": 582,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "capac",
+        "lungime": 800,
+        "latime": 582,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          true,
+          false,
+          true
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "raft fix jos",
+        "lungime": 764,
+        "latime": 582,
+        "orientare": "ORICARE",
+        "canturi": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "raft interior",
+        "lungime": 764,
+        "latime": 550,
+        "orientare": "ORICARE",
+        "canturi": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "usa",
+        "lungime": 1694,
+        "latime": 395,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "prag",
+        "lungime": 764,
+        "latime": 100,
+        "orientare": "LATIME",
+        "canturi": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "nr_bucati": 1
+      }
+    ]
+  }
+]
